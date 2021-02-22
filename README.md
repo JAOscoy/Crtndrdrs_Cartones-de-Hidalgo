@@ -8,3 +8,5 @@ Aplicación para la gestion de las operaciones de venta de cajas de carton corru
 
 - Con ayuda del framework de React, creamos la vista al usuario [_'Frontend con React'_](https://github.com/JAOscoy/Crtndrdrs_frontend-React.git).
 
+[Architecture.png](/Architecture.png)
+
