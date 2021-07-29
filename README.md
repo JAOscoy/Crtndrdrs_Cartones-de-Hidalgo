@@ -6,7 +6,7 @@ Aplicación para la gestion de las operaciones de venta de cajas de carton corru
 
 - Usando la misma base de datos, usamos el framework ExpressJS para configurar una API siguiendo las recomendaciones de la arquitectura REST para transferencia de información. [_'Backend con Express'_](https://github.com/JAOscoy/Crtndrdrs_backend-Express.git).
 
-- Con ayuda del framework de React, creamos la vista al usuario [_'Frontend con React'_](https://github.com/JAOscoy/Crtndrdrs_frontend-React.git).
+- Con ayuda del framework de React, creamos la vista al usuario [_'Frontend con React'_](https://github.com/JAOscoy/webCrtndrdrsTS.git).
 
 ![Architecture.png](/Architecture.png)
 
