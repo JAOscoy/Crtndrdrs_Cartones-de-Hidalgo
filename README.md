@@ -27,9 +27,36 @@ Diseño actual:
 
 ![Technologies_architecture.jpg](/Technologies_architecture.jpg)
 
+### Ventajas:
+
+- Protocolo HTTPS incluido.
+- La mayor parte de los datos pueden cambiarse sobre un solo archivo (Interfaces TS).
+- Ultimas versiones de paqueterias para evitar obsolecencia.
+- Facil integración y arranque de futuros componentes.
+- Pay-as-you-go por los servicios AWS y escalabilidad.
+
 Primer boceto:
 
 ![Architecture.png](/Architecture.png)
+
+#### Nice to have:
+
+- Dashboard resultados.
+- Adquisicón de datos remoto (clientes nuevos, registro de ordenes, creación de productos).
+- Venta en linea.
+
+# Estado actual
+
+![current_state.jpg](/current_state.jpg)
+
+#### V 2.0
+
+- Full web-mobile responsive
+- Compra final del dominio.
+- Inclusión de más fotos de diseños flexibles y manejo desde la nube (AWS S3 Bucket).
+
+
+
 
 
 
