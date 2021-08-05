@@ -10,7 +10,7 @@ Aplicación para la gestion de las operaciones de venta de cajas de carton corru
 
 # Desripción del problema
 
-![Diagrama_cartones.png](/Diagrama_cartones.png)
+![Diagrama_cartonadoradores.png](/Diagrama_cartonadoradores.png)
 
 ### Limitaciones
 
