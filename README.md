@@ -12,5 +12,28 @@ Aplicación para la gestion de las operaciones de venta de cajas de carton corru
 
 ![Diagrama_cartones.png](/Diagrama_cartones.png)
 
+### Limitaciones
+
+- Cada prospecto requiere un ciclo de iteraciones con muestras fisicas y cambios en el diseño antes de realizar una cotización final.
+- Una vez aceptada la cotización, algunas veces se requiere investigación de historial de credito ya que algunas veces se arregla con el maquilador una opción de financiamiento con el cliente.
+
+# Product Backlog
+
+![Historias_usuario.jpg](/Historias_usuario.jpg)
+
+# Arquitectura
+
+Diseño actual:
+
+![Technologies_architecture.jpg](/Technologies_architecture.jpg)
+
+Primer boceto:
+
 ![Architecture.png](/Architecture.png)
+
+
+
+
+
+
 
