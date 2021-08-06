@@ -8,7 +8,7 @@ Aplicación para la gestion de las operaciones de venta de cajas de carton corru
 
 - Con ayuda del framework de React, creamos la vista para el usuario [_'Frontend con React'_](https://github.com/JAOscoy/webCrtndrdrsTS.git).
 
-# Desripción del problema
+# Descripción del problema
 
 ![Diagrama_cartonadoradores.png](/Diagrama_cartonadoradores.png)
 
